@@ -18,7 +18,7 @@ This project was developed as a beginner-friendly Python project to practice dic
 - Calculate the total portfolio investment.
 - Provide a simple and interactive command-line interface.
 
-  ## How to run code
+## How to run code
 
  step1: Open VS Code.
 Open your project folder: File → Open Folder.
@@ -32,7 +32,7 @@ Press Enter.
 step4:
 Enter stock name (or type 'done' to finish):
 
-## project structure
+## Project structure
 
 CodeAlpha_Internship/
 │
